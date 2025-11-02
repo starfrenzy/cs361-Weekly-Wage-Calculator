@@ -1,8 +1,16 @@
-# CS361-starfrenzy
+# CS361-Weekly-Wage-Calculator
+by Jessi Frenzel | frenzeje@oregonstate.edu
+
+This is the portfolio project for course **CS 361: Software Engineering I** at Oregon State University.
+
+[Video demo of Weekly Wage Calculator](https://media.oregonstate.edu/media/1_3n60zfnp) (wages_3.py)  
+
+
 ### What this project does:
 The file ‘wages_2.py’ is an hours tracker that calculates weekly payment amounts for hourly workers such as babysitters, tutors, etc. 
 
-It allows the user to enter the hours worked each day. At the end of the week, a printout of the daily hours is provided, as well as a total. The user sets the wage amount and a total payment is provided.
+It allows the user to enter the hours worked each day. At the end of the week, a printout of the daily hours is provided, as well as a total. The user sets the wage amount and a total payment is provided. 
+
 
 ### How to get started with the main project (wages_2.py):
 1. IMPORTANT: Visit the “Building and Installing” section at [this page](https://pypi.org/project/pyzmq/) to install the ZeroMQ Python library.  This is the command:
@@ -23,10 +31,4 @@ After installing pyzmq, open the following files found in this repository:
 
 _Clear 'request_list.json' before running a fresh instance of the wages_3.py program._
 
-[Video explaining wages_3.py](https://media.oregonstate.edu/media/1_3n60zfnp)
 
-
-### Where users can get help
-Email Jessi at starfrenzy@hotmail.com.
-
-#### Jessi Frenzel maintains and contributes to this project.
